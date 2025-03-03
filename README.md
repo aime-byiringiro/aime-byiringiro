@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+<<div align="center">
+  <a href="https://github.com/aime-byiringiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aime-byiringiro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aime-byiringiro"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aime-byiringiro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aime-byiringiro"/>
+  </a>
+</div>!--
 **aime-byiringiro/aime-byiringiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

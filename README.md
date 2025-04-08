@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<<div align="center">
+<div align="center">
   <a href="https://github.com/aime-byiringiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aime-byiringiro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aime-byiringiro"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aime-byiringiro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aime-byiringiro"/>
